@@ -40,3 +40,6 @@ The "Glove for Deaf" project represents a significant advancement in assistive t
 **Contributors:**
 - [Mostafa Abdelaziz]
 
+**Video Link**
+-https://drive.google.com/file/d/1SFnix4fqBWX4-V6_L0yTtZ-I6s2emqsk/view?usp=drivesdk
+
