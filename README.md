@@ -23,6 +23,9 @@ The "Glove for Deaf" project is an innovative solution designed to bridge commun
 5. **Profile Management:**
    - Users have the ability to manage profiles directly within the microcontroller, without the need for an external computer.
    - Options include loading existing profiles, calibrating new ones, deleting created profiles, and changing the device password.
+  
+6. **Bluetooth Connection:**
+   - Users have the ability to connect the UART HC-05 bluetooth module to the device and the device will automatically send the data to a bluetooth connected device.
 
 **Hardware Components:**
 - **5x Flex Sensors:** Capture hand posture data by converting analog signals into digital values.
