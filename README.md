@@ -46,3 +46,6 @@ The "Glove for Deaf" project represents a significant advancement in assistive t
 **Video Link**
 -https://drive.google.com/file/d/1SFnix4fqBWX4-V6_L0yTtZ-I6s2emqsk/view?usp=drivesdk
 
+Complete Explanation of the project:
+https://drive.google.com/drive/folders/1_6Au_VYK2D9zNNrJZ8_5UifkgKMbvCPP?usp=sharing
+
