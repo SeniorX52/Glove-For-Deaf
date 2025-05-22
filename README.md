@@ -3,6 +3,8 @@
 **Overview:**
 The "Glove for Deaf" project is an innovative solution designed to bridge communication barriers for individuals with hearing impairments. Leveraging embedded systems technology, this project utilizes a combination of hardware components and sophisticated software algorithms to translate hand postures into meaningful outputs.
 
+![Glove](https://github.com/user-attachments/assets/ff88a02b-f7bc-4617-89eb-7ae3825fc805)
+
 **Features:**
 1. **Hand Posture Translation:**
    - The glove is capable of translating up to 50 hand postures, enabling users to convey a wide range of messages and commands.
